@@ -1,0 +1,12 @@
+name: prospecttheory
+title: prospecttheory
+username:
+account: marcelogelati
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1823204
+bundleId: 2811708
+url: https://marcelogelati.shinyapps.io/prospecttheory/
+when: 1582114130.03097
+asMultiple: FALSE
+asStatic: FALSE
