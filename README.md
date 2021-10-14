@@ -1,0 +1,1 @@
+Aplicativo Shiny que fiz para construir uma função de utilidade baseada na teoria econômica comportamental do prospecto. O aplicativo pode ser acessado [aqui](https://marcelogelati.shinyapps.io/prospecttheory).
